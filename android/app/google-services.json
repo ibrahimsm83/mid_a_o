@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "124115772621",
+    "project_id": "mid-america-outdoors",
+    "storage_bucket": "mid-america-outdoors.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124115772621:android:ef6bbbf908172e373bb584",
+        "android_client_info": {
+          "package_name": "com.appmization.midamericaoutdoors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124115772621-bmvc9qejcto7cgojlj5439qvjk22rfqu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appmization.midamericaoutdoors",
+            "certificate_hash": "c45e03045b058bd04bcf2b0f0d0ace64ee1489b6"
+          }
+        },
+        {
+          "client_id": "124115772621-ltt2f7vqlt068vkihknq3e8atdmfrkji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appmization.midamericaoutdoors",
+            "certificate_hash": "c1b980b0b6907451243715208de592c1e88139d6"
+          }
+        },
+        {
+          "client_id": "124115772621-s0il5m913qdc5uvtq094ojqr29l2te7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appmization.midamericaoutdoors",
+            "certificate_hash": "1b7742f8713f2e1348c273bc7c194c39924334d7"
+          }
+        },
+        {
+          "client_id": "124115772621-kub2g0qfabohnpbia2colglg1hidqmlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1QpWvXlracJ9BgPpoO1v7MGol3tFxeUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124115772621-kub2g0qfabohnpbia2colglg1hidqmlc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "124115772621-npj6d0gkj8phfr3fvtdoh13pvrpqp9pi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appmization.midamericaoutdoors",
+                "app_store_id": "1577930301"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>124115772621-npj6d0gkj8phfr3fvtdoh13pvrpqp9pi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.124115772621-npj6d0gkj8phfr3fvtdoh13pvrpqp9pi</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>124115772621-ltt2f7vqlt068vkihknq3e8atdmfrkji.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAygXUMQadqIzfUha0DmV58vHNM-7JnpBU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>124115772621</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.appmization.midamericaoutdoors</string>
+	<key>PROJECT_ID</key>
+	<string>mid-america-outdoors</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mid-america-outdoors.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:124115772621:ios:49c4d0f9d1bf62d23bb584</string>
+</dict>
+</plist>
